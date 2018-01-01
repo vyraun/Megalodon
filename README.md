@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/m9rlj23.jpg">
 </p>
 
-#### :point_right: Raise a pull request to make this list more useful or to remove any content.   
+#### :point_right: Raise a pull request to add content/comments & make this list more useful or to remove anything.   
 
 
 | Blogs        | Type           | Comments  |
