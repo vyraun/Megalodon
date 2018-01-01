@@ -36,7 +36,7 @@
 
 | Books        |    Focus Areas        | Comments  |
 | ------------- |:-------------:| -----:|
-| [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) |      |     |
+| [Pattern Recognition and Machine Learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) |      |  [MATLAB Code](http://prml.github.io/)   |
 | [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=pd_lpo_sbs_14_t_2?_encoding=UTF8&psc=1&refRID=Q375K1MS03MBDV35BK04) |       |    |
 | [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=0262035618&pd_rd_r=CMQXT5D8S1BMTNHYM77T&pd_rd_w=ATpsn&pd_rd_wg=c1mEk&psc=1&refRID=CMQXT5D8S1BMTNHYM77T)      |      |    |
 | [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0387848576&pd_rd_r=HTMKEMAQHPW79GM7H19N&pd_rd_w=E5wu6&pd_rd_wg=gjLqq&psc=1&refRID=HTMKEMAQHPW79GM7H19N)      |       |    |
