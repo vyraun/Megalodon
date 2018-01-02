@@ -314,3 +314,4 @@
 * https://github.com/ml4a ml for artists
 * https://severelytheoretical.wordpress.com/
 * https://codingmachinelearning.wordpress.com
+* https://kratzert.github.io/openlearning
