@@ -207,6 +207,7 @@
 * https://smerity.com/articles/articles.html
 * http://veredshwartz.blogspot.in/ 
 * https://stats385.github.io/blogs
+* https://blogs.princeton.edu/imabandit/
 * https://www.countbayesie.com
 * http://building-babylon.net/
 * [While My MCMC Gently Samples](http://twiecki.github.io/)
