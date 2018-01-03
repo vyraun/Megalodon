@@ -126,7 +126,7 @@
 | [Facebook](https://research.fb.com/category/facebook-ai-research-fair/) |       |     |
 | [Google Deepmind](https://deepmind.com/blog/) |       |    |
 | [Apple](https://machinelearning.apple.com/) |     |    |
-| [Recast AI](https://blog.recast.ai/category/machine-learning/) |       |     |
+| [Recast AI](https://blog.recast.ai/category/machine-learning/) | NLP & Dialog Management |[API Reference](https://recast.ai/docs/api-reference/)     |
 | [Salesforce Einstein](https://einstein.ai/research) |      |    |
 
 
@@ -317,3 +317,4 @@
 * https://severelytheoretical.wordpress.com/
 * https://codingmachinelearning.wordpress.com
 * https://kratzert.github.io/openlearning
+* https://recast.ai/
