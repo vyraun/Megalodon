@@ -204,6 +204,7 @@
 
 
 ### Other Blogs
+* https://smerity.com/articles/articles.html
 * http://veredshwartz.blogspot.in/ 
 * https://stats385.github.io/blogs
 * https://www.countbayesie.com
