@@ -144,6 +144,7 @@
 | [Fast.AI](http://www.fast.ai/)      |  |    |
 | [Oxford Deep NLP, 17](https://github.com/oxford-cs-deepnlp-2017/lectures)      |  |   |
 | [Theories of deep learning](https://stats385.github.io/) | | [Videos](https://www.researchgate.net/project/Theories-of-Deep-Learning) |
+| [Deep Learning System](http://dlsys.cs.washington.edu/) | | |
 | [PGM](https://github.com/ermongroup/cs228-notes) | | [Flexible models of uncertainty](https://csc2541-f17.github.io/) |
 
 | Frameworks/Libraries        | Type           | Comments  |
