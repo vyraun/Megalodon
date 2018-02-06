@@ -319,3 +319,4 @@
 * https://codingmachinelearning.wordpress.com
 * https://kratzert.github.io/openlearning
 * https://recast.ai/
+* https://www.techemergence.com/artificial-intelligence-podcast/
