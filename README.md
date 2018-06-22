@@ -23,6 +23,9 @@
 | [R2RT](http://r2rt.com/)      | Personal |  |
 | [Pythonic Perambulations](https://jakevdp.github.io)      | Personal |  |
 | [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)      | Personal |  |
+| [Papers wih Code](https://paperswithcode.com/)|||
+| [Depth First Learning](http://www.depthfirstlearning.com/)|||
+
 
 
 | Podcasts        | Type           | Comments  |
