@@ -84,6 +84,7 @@
 | [Deep Learning: Theory, Algorithms, and Applications](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW) |      |     |
 | [Gaussian Process Summer Schools](http://gpss.cc) |      |     |
 | [MLSS, Iceland, 2014](https://www.youtube.com/watch?v=rcZHO2Lyd8Q&list=PLqdbxUnkqOw2nKn7VxYqIrKWcqRkQYOsF)| | |
+|[MLSS Sydney 15](https://www.youtube.com/channel/UCT1k2e63pqm_VSXmaF21n6g/videos)|||
 
 
 | Video Channels/Videos        | Focus Areas           | Comments  |
