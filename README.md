@@ -25,7 +25,7 @@
 | [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)      | Personal |  |
 | [Papers wih Code](https://paperswithcode.com/)|||
 | [Depth First Learning](http://www.depthfirstlearning.com/)|||
-
+| [Moritz Hardt](http://blog.mrtz.org/)|||
 
 
 | Podcasts        | Type           | Comments  |
