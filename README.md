@@ -99,6 +99,7 @@
 | [CIS Lectures](https://www.youtube.com/watch?v=FD-DCpiRt4Q&list=PLjV5ChM0ZamXvq-wzo3zMFcb6ZI3r72CN) | | |
 | [ICLR 2015](https://www.youtube.com/channel/UCqxFGrNL5nX10lS62bswp9w)| | |
 | [IAS, Theoretical ML](https://www.ias.edu/ideas?aff=2)|  | |
+| [Formal and Applied Linguistics]|(http://lectures.ms.mff.cuni.cz/) | | |
 
 
 | General Resource Curations        | Type           | Comments  |
