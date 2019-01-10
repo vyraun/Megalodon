@@ -1,10 +1,10 @@
 ## MEGALODON: ML/DL Resources At One Place ##
 
-<p> 
+<p>
 <img src="https://i.imgur.com/m9rlj23.jpg">
 </p>
 
-#### :point_right: Raise a pull request to add content/comments & make this list more useful or to remove anything.   
+#### :point_right: Raise a pull request to add content/comments & make this list more useful or to remove anything.
 
 
 | Blogs        | Type           | Comments  |
@@ -51,6 +51,7 @@
 | [Model Based Machine Learning](http://www.mbmlbook.com/)      |      |    |
 | [Neural Networks for Pattern Recognition](https://www.amazon.com/Networks-Pattern-Recognition-Advanced-Econometrics/dp/0198538642)      |       |    |
 | [Foundations Of Data Science](http://www.cs.cornell.edu/jeh/book%20June%2014,%202017pdf.pdf)| | [Lectures](https://www.youtube.com/watch?v=WEBUWYxaqLQ) |
+| [A Course in Machine Learning](http://ciml.info/)| |  |
 
 
 | Monographs/Reports/Tutorials        | Focus Areas           | Comments  |
@@ -156,7 +157,7 @@
 | ------------- |:-------------:| -----:|
 | [Tensorfow](https://www.tensorflow.org/)      |  | [TF Dev Summit, 17](https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv) |
 | [Theano](http://deeplearning.net/software/theano/)      |       |   |
-| [Lasagne](https://lasagne.readthedocs.io/en/latest/) |     |     | 
+| [Lasagne](https://lasagne.readthedocs.io/en/latest/) |     |     |
 | [Keras](https://keras.io/) |    |     |
 | [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/) |      |     |
 | [MXNET](https://mxnet.incubator.apache.org/) |      |    |
@@ -201,7 +202,7 @@
 | [Nathan Benaich](https://www.getrevue.co/profile/nathanbenaich/) |     |    |
 | [O'reilly AI Newsletter](http://www.oreilly.com/ai/newsletter.html) |       |    |
 | [Inside AI](https://inside.com/ai) |     |    |
-| [Videolectures Digest](http://videolectures.net/) |      |    | 
+| [Videolectures Digest](http://videolectures.net/) |      |    |
 
 
 | Datasets        | Task           | Comments  |
@@ -211,7 +212,7 @@
 
 ### Other Blogs
 * https://smerity.com/articles/articles.html
-* http://veredshwartz.blogspot.in/ 
+* http://veredshwartz.blogspot.in/
 * https://stats385.github.io/blogs
 * https://blogs.princeton.edu/imabandit/
 * https://www.countbayesie.com
@@ -219,8 +220,8 @@
 * [While My MCMC Gently Samples](http://twiecki.github.io/)
 * http://www.marekrei.com/blog/online-representation-learning-in-recurrent-neural-language-models/
 * http://mlg.eng.cam.ac.uk/yarin/blog.html
-* https://blogs.msdn.microsoft.com/ericlippert/ 
-* https://ericlippert.com/ 
+* https://blogs.msdn.microsoft.com/ericlippert/
+* https://ericlippert.com/
 * https://blogs.msdn.microsoft.com/ericlippert/tag/high-dimensional-spaces/
 * http://blog.echen.me/
 * radford neal's blog https://radfordneal.wordpress.com/
@@ -313,7 +314,7 @@
 * http://giorgiopatrini.org/posts/2017/09/06/in-search-of-the-missing-signals/
 * http://www-users.cs.umn.edu/~verma/blog.html
 * https://www.papernot.fr/en/blog
-* https://gab41.lab41.org/ 
+* https://gab41.lab41.org/
 * http://blog.smola.org/
 * http://mogren.one/blog/
 * http://www.alexirpan.com/ good batchnorm
