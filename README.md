@@ -101,6 +101,7 @@
 | [ICLR 2015](https://www.youtube.com/channel/UCqxFGrNL5nX10lS62bswp9w)| | |
 | [IAS, Theoretical ML](https://www.ias.edu/ideas?aff=2)|  | |
 | [Formal and Applied Linguistics]|(http://lectures.ms.mff.cuni.cz/) | | |
+| [ICLR 19]|(https://slideslive.com/iclr) | | |
 
 
 | General Resource Curations        | Type           | Comments  |
