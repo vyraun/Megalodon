@@ -102,6 +102,7 @@
 | [IAS, Theoretical ML](https://www.ias.edu/ideas?aff=2)|  | |
 | [Formal and Applied Linguistics]|(http://lectures.ms.mff.cuni.cz/) | | |
 | [ICLR 19]|(https://slideslive.com/iclr) | | |
+| [David MacKay's Lectures](https://www.youtube.com/channel/UCfoScwn69ekXXWNTN0CLGXA)|||
 
 
 | General Resource Curations        | Type           | Comments  |
