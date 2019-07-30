@@ -100,9 +100,10 @@
 | [CIS Lectures](https://www.youtube.com/watch?v=FD-DCpiRt4Q&list=PLjV5ChM0ZamXvq-wzo3zMFcb6ZI3r72CN) | | |
 | [ICLR 2015](https://www.youtube.com/channel/UCqxFGrNL5nX10lS62bswp9w)| | |
 | [IAS, Theoretical ML](https://www.ias.edu/ideas?aff=2)|  | |
-| [Formal and Applied Linguistics]|(http://lectures.ms.mff.cuni.cz/) | | |
-| [ICLR 19]|(https://slideslive.com/iclr) | | |
+| [Formal and Applied Linguistics](http://lectures.ms.mff.cuni.cz/) | | |
+| [ICLR 19](https://slideslive.com/iclr) | | |
 | [David MacKay's Lectures](https://www.youtube.com/channel/UCfoScwn69ekXXWNTN0CLGXA)|||
+| [ACL 2019](https://www.livecongress.it/sved/evt/aol_lnk.php?id=60B5FD70) |||
 
 
 | General Resource Curations        | Type           | Comments  |
