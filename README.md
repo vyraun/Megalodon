@@ -86,6 +86,7 @@
 | [Gaussian Process Summer Schools](http://gpss.cc) |      |     |
 | [MLSS, Iceland, 2014](https://www.youtube.com/watch?v=rcZHO2Lyd8Q&list=PLqdbxUnkqOw2nKn7VxYqIrKWcqRkQYOsF)| | |
 |[MLSS Sydney 15](https://www.youtube.com/channel/UCT1k2e63pqm_VSXmaF21n6g/videos)|||
+|[MLSS London 2019](https://search.videoken.com/?orgId=198#)|||
 
 
 | Video Channels/Videos        | Focus Areas           | Comments  |
