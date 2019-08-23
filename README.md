@@ -105,6 +105,7 @@
 | [ICLR 19](https://slideslive.com/iclr) | | |
 | [David MacKay's Lectures](https://www.youtube.com/channel/UCfoScwn69ekXXWNTN0CLGXA)|||
 | [ACL 2019](https://www.livecongress.it/sved/evt/aol_lnk.php?id=60B5FD70) |||
+| [Allen AI](https://allenai.org/videos/videos-all-2019.html)|||
 
 
 | General Resource Curations        | Type           | Comments  |
