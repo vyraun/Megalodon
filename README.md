@@ -26,6 +26,7 @@
 | [Papers wih Code](https://paperswithcode.com/)|||
 | [Depth First Learning](http://www.depthfirstlearning.com/)|||
 | [Moritz Hardt](http://blog.mrtz.org/)|||
+| [MadryLab](https://gradientscience.org/)|||
 
 
 | Podcasts        | Type           | Comments  |
