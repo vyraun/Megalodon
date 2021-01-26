@@ -65,7 +65,7 @@
 | [High-Dimensional Data Analysis: Curses & Blessings](http://statweb.stanford.edu/~donoho/Lectures/AMS2000/AMS2000.html) | | [50 years of Data Science](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)|
 
 
-| Summer Schools        | Focus Areas           | Comments  |
+| Summer Schools/Seminars        | Focus Areas           | Comments  |
 | ------------- |:-------------:| -----:|
 | [MLSS, Tubingen 07](http://videolectures.net/mlss07_tuebingen/)      |  |  |
 | [Cambridge](http://videolectures.net/mlss09uk_cambridge/)      |       |    |
@@ -88,6 +88,7 @@
 | [MLSS, Iceland, 2014](https://www.youtube.com/watch?v=rcZHO2Lyd8Q&list=PLqdbxUnkqOw2nKn7VxYqIrKWcqRkQYOsF)| | |
 |[MLSS Sydney 15](https://www.youtube.com/channel/UCT1k2e63pqm_VSXmaF21n6g/videos)|||
 |[MLSS London 2019](https://search.videoken.com/?orgId=198#)|||
+|[New Tech in Math Seminar](https://cmsa.fas.harvard.edu/tech-in-math/)|||
 
 
 | Video Channels/Videos        | Focus Areas           | Comments  |
