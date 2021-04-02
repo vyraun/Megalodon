@@ -4,8 +4,6 @@
 <img src="https://i.imgur.com/m9rlj23.jpg">
 </p>
 
-#### :point_right: Raise a pull request to add content/comments & make this list more useful or to remove anything.
-
 
 | Blogs        | Type           | Comments  |
 | ------------- |:-------------:| -----:|
@@ -36,6 +34,9 @@
 | [The AI Podcast](https://soundcloud.com/theaipodcast) | Interviews      |    |
 | [TWiML & AI](https://soundcloud.com/twiml) | Interviews      |    |
 | [NLP-Highlights](https://soundcloud.com/nlp-highlights) | Interviews      |    |
+| [The Thesis Review](https://cs.nyu.edu/~welleck/podcast.html) | Interviews      |    |
+| [NLP with Friends](https://nlpwithfriends.com/past/) | Presentations      |    |
+| [ML Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ) | Interviews      |    |
 
 
 | Books        |    Focus Areas        | Comments  |
