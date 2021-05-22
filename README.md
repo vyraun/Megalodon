@@ -37,6 +37,7 @@
 | [The Thesis Review](https://cs.nyu.edu/~welleck/podcast.html) | Interviews      |    |
 | [NLP with Friends](https://nlpwithfriends.com/past/) | Presentations      |    |
 | [ML Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ) | Interviews      |    |
+| [Pytorch-dev-podcast](https://pytorch-dev-podcast.simplecast.com/) | Podcast      |  Pytorch Internals  |
 
 
 | Books        |    Focus Areas        | Comments  |
