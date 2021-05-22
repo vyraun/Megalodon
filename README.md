@@ -27,7 +27,7 @@
 | [MadryLab](https://gradientscience.org/)|||
 
 
-| Podcasts        | Type           | Comments  |
+| Podcasts/Talks        | Type           | Comments  |
 | ------------- |:-------------:| -----:|
 | [Talking Machines](http://www.thetalkingmachines.com/)      | Interviews/Research Exposition |  |
 | [Radim](https://soundcloud.com/piskvorky)      | Interviews      |    |
@@ -37,7 +37,8 @@
 | [The Thesis Review](https://cs.nyu.edu/~welleck/podcast.html) | Interviews      |    |
 | [NLP with Friends](https://nlpwithfriends.com/past/) | Presentations      |    |
 | [ML Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ) | Interviews      |    |
-| [Pytorch-dev-podcast](https://pytorch-dev-podcast.simplecast.com/) | Podcast      |  Pytorch Internals  |
+| [Pytorch-dev-podcast](https://pytorch-dev-podcast.simplecast.com/) | Talks      |  Pytorch Internals  |
+| [Stanford MLSys Seminar](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ) | Talks      |    |
 
 
 | Books        |    Focus Areas        | Comments  |
@@ -110,6 +111,7 @@
 | [David MacKay's Lectures](https://www.youtube.com/channel/UCfoScwn69ekXXWNTN0CLGXA)|||
 | [ACL 2019](https://www.livecongress.it/sved/evt/aol_lnk.php?id=60B5FD70) |||
 | [Allen AI](https://allenai.org/videos/videos-all-2019.html)|||
+
 
 
 | General Resource Curations        | Type           | Comments  |
